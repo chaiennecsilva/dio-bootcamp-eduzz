@@ -1,1 +1,14 @@
-Anotações Importantes 
+Anotações Importantes - Cronograma
+1-Boas-vindas ao Bootcamp Eduzz Fullstack Developer: finalizado.
+2-Bem vindo a DIO: finalizado.
+3-Mentoria 01: Aula Inaugural: Como ser o próximo contratado pela Eduzz (Aula Inaugural): 
+4-Projetos ágeis com SCRUM: finalizado.
+5-Lógica de Programação Essencial: finalizado.
+6-Introdução ao Git e ao GitHub: finalizado.
+7-Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso: finalizado.
+8-Mentoria 02: Carreira Eduzz e cultura e governança:
+9-Introdução a criação de websites com HTML5 e CSS3: em andamento.
+
+
+
+
