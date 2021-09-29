@@ -1,0 +1,67 @@
+var d = new Date(); //mostra as informações de data e horario num
+alert(d);
+
+/*EXEMPLO COM ESTRUTURA FOR
+var count;
+for (count=0; count<counts.length; count++) {
+    alert(count);
+}/*
+
+/*EXEMPLO DE WHILE
+var count = 0;
+while (count <= 5);
+console.log(count); // = alert("count") que mostra na tela
+count++;
+*/
+
+/*EXEMPLO DE CONDICIONAIS, LAÇOS DE REPETIÇÃO E DATE
+var idade = prompt("Qual sua idade: "); //usa para coletar os dados do usuario para realizar o testes
+if (idade >=18) {
+    alert("maior de idade");
+}else{
+    alert("menor de idade");
+}
+*/
+
+
+
+/*EXEMPLO DE UM DICIONARIO COM VARIAS OPÇÕES 
+var frutas = [{nome:"maça", cor:"vermelha"},{nome:"uva", cor:"roxa"} ]
+console.log(frutas);
+alert(frutas[1].nome);   
+*/
+
+/* EXEMPLO DE UM DICIONARIO 
+var fruta = {nome:"maça", cor:"vermelha"}
+console.log(fruta.nome);
+alert(fruta.cor);
+*/
+
+/* EXEMPLOS DE ARRAYS
+var lista = ["maça", "pera", "laranja"];
+lista.push("uva"); //incluir na lista
+lista.pop();//retira o ultimo elemento da lista
+console.log(lista);
+console.log(lista.length); //qtde de elementos na lista 
+console.log(lista.reverse()); //imprime os elementos na lista ao contrario
+console.log(lista.toString()); //imprime como elementos sem ser um array
+console.log(lista.join(" | ")); //imprime um caractere especial entre os elementos
+
+//alert(lista[2]);
+*/
+
+/* exemplos de variaveis
+var nome = "Chaienne Silva";
+var idade = 27;
+var idade2 = 10;
+alert(idade + idade2);
+var frase = "Japão é o melhor time do mundo";
+//alert(nome + " tem " + idade + " anos ");
+//usado para visualizar no proprio navagador
+console.log("nome");
+console.log(idade + idade2);
+console.log(frase.replace("Japão", "Brazil"));
+alert(frase.replace("Japão", "Brasil"))
+alert(frase.toLocaleUpperCase()); //letra maiuscula
+//alert(frase.toLocaleLowerCase()); //letra minuscula
+*/
